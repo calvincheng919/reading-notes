@@ -1,6 +1,6 @@
 ---
 
-title: "Test Page"
+title: Test Page
 layout: page
 permalink: /test
 
