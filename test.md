@@ -1,6 +1,7 @@
 ---
-layout: page
+
 title: "Title"
+layout: page
 permalink: /test
 
 ---
