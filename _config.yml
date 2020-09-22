@@ -1,3 +1,8 @@
 theme: jekyll-theme-modernist
 title: Journey into High School Coding
 description: Learning to code in High School is fun!
+
+
+header_pages:
+  - Home: "http://calvincheng.dev"
+  - about.md
