@@ -6,3 +6,10 @@ Today's reading was on the DOM, specifically how to add additional items on to t
 
 ### What I learned:
 - ..
+
+## Reading Notes - 03.09.2021
+
+Today we learned about how workflow is important. 
+- What is workflow - workflow is...
+- The most important thing to know is .... 
+- more notes...
